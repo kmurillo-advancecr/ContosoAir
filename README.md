@@ -1,3 +1,5 @@
+[![Build Status](https://dev.azure.com/workshop-atesa-kmurillo/PartsUnlimited/_apis/build/status/kmurillo-advancecr.ContosoAir?branchName=master)](https://dev.azure.com/workshop-atesa-kmurillo/PartsUnlimited/_build/latest?definitionId=5&branchName=master)
+
 # This project is retired, archived, and no longer supported. You are welcome to continue to use and fork the repository.
 
 
